@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WTest</string>
+    <string name="text_view_progress_downloading_file">A descarregar ficheiro</string>
+    <string name="text_view_progress_updating_db">A inserir na BD</string>
+    <string name="postal_code">%s-%s</string>
+    <string name="activity_main_search_view_hint">Pesquisar código postal</string>
+</resources>
